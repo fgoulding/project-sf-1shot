@@ -1,9 +1,7 @@
 - generally goes by VS
 
 ## Role
-
 Detective/Investigator - an ally to the players who are looking for information
-
 ## Appearance
 
 His **dark brown skin**, rich and warm, contrasts against the cool, polished surfaces of his world, and those sharp eyes, bright with intensity. Thick eyebrows with a seemingly permenantly furrowed brow

@@ -1,3 +1,4 @@
+
 A true third space located in [[Fog Hollow (Cow Hollow)]]
 
 A gathering spot for those who belong. Inscribed runes around shop create a welcoming space for those who belong and a feeling of unrest for those that dont.

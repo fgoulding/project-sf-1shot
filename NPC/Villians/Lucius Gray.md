@@ -1,12 +1,17 @@
+## Notes
+
+low-level devil - contracts to control the fey and spirits
+(maybe stage 2 boss after OracleMind)
 ## Overview
 
 - Owns the Company **OracleAI**
 - Obsessed with artificial intelligence, he’s experimenting with binding spirits, fey, and even ghosts into machine-learning models. His flagship project, **OracleMind**, is an AI fueled by captured seers and oracles, granting near-perfect predictive capabilities.
+
+
 ### Twist
 His tech isn’t predicting the future—it’s _rewriting_ it. His AI’s predictions become self-fulfilling, subtly altering fate.
 
 ## Appearance
-
 The first thing you notice about Lucius Gray—aside from the crisp, almost unnaturally flawless suit—are his eyes,  a bright amber that almost comes off as bronze. 
 They gleam. Not with the hunger of a predator, but with the cool, controlled ambition of someone who’s already decided he’ll own the future. His hair is a perfect shade of platinum blond, slicked back just enough to give him that sense of "I’m too important to let it get messy".
 
