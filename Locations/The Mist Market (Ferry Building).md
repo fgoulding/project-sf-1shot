@@ -1,0 +1,3 @@
+- A magical black market that only appears in the thickest fog. 
+- It moves unpredictably and sells things that _shouldn’t_ exist.
+- Located at the Ferry building

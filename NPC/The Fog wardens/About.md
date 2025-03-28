@@ -1,0 +1,1 @@
+A secret order of mages, druids, and artificers responsible for maintaining Karl.

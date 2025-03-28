@@ -1,0 +1,1 @@
+Owns the [[Dumpling Apartment]]
