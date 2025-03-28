@@ -1,0 +1,2 @@
+
+Gather a group of magical and newly magical people to fight against Oraclemind and free the fey trapped by complex *Terms of Agreement* 

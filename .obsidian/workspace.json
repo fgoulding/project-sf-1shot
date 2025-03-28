@@ -35,12 +35,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPC/General/Varun Krishnaswamy (VS).md",
+                "file": "Hooks/Fight against the worst future.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Varun Krishnaswamy (VS)"
+              "title": "Fight against the worst future"
             }
           }
         ]
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPC/General/Varun Krishnaswamy (VS).md",
+                "file": "Hooks/Fight against the worst future.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Varun Krishnaswamy (VS)"
+              "title": "Backlinks for Fight against the worst future"
             }
           },
           {
@@ -135,12 +135,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NPC/General/Varun Krishnaswamy (VS).md",
+                "file": "Hooks/Fight against the worst future.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Varun Krishnaswamy (VS)"
+              "title": "Outgoing links from Fight against the worst future"
             }
           },
           {
@@ -164,13 +164,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NPC/General/Varun Krishnaswamy (VS).md",
+                "file": "Hooks/Fight against the worst future.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Varun Krishnaswamy (VS)"
+              "title": "Outline of Fight against the worst future"
             }
           }
         ]
@@ -192,8 +192,9 @@
   },
   "active": "2c5d7cc042fecfa4",
   "lastOpenFiles": [
-    "NPC/Fogborn/About.md",
     "NPC/General/Varun Krishnaswamy (VS).md",
+    "Hooks/Fight against the worst future.md",
+    "NPC/Fogborn/About.md",
     "NPC/Villians/OracleMind.md",
     "z_assets/oraclemind.monster",
     "z_assets/oraclemind_stat_block.png",
